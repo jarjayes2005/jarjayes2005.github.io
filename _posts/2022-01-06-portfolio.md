@@ -1,7 +1,7 @@
-## Past translation works
+### Translation Portfolio
 
-Chinese - German
+## Chinese - English
 
-English - German
+## English - German
 
-Chinese - English
+## Chinese - German
