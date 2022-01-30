@@ -1,4 +1,4 @@
-### Translation Portfolio
+### Translation portfolio
 
 ## Chinese - English
 
