@@ -4,6 +4,9 @@ In face of the technological predomination of our modern era, I as a humanistic 
 
 I am a holder of both [LLB Law](https://www.bristol.ac.uk/study/undergraduate/2022/law/llb-law/) and [M.A. Intercultural Communication & European Studies](https://www.hs-fulda.de/en/studies/departments/social-and-cultural-sciences/future-students/study-programmes/intercultural-communication-and-european-studies-ma).
 
+You can find my Upwork profile [here](https://www.upwork.com/freelancers/~01d22bd8700b7c2b9d).
+(Unfortunately I lost access to an older account several years ago, which contained way more reviews than what is visible on this rather new one.)
+
 Over the years, I have established solid expertise especially in the following areas:
 - **linguistic services:** _translation, transcription, proofreading, interpretation, creative writings e.g. poetry_
 - **interpersonal skills:** _both oral and written communication, bolstered with intercultural awareness and sensibility_
