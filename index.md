@@ -1,4 +1,8 @@
-![](me.JPG | width=800)
+<div style="width: 60%; height: 60%">
+
+  ![](me.JPG)
+
+</div>
 
 Thank you for visiting my page! Here is Shi Yi speaking, I am a polyglot originally from Malaysia and have been living in Europe since 2013.
 
