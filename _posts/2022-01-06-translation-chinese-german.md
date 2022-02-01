@@ -1,17 +1,18 @@
 ## Translation portfolio: Chinese - German
 
-# Academic research
+# Type and field
 
-# Biography
+- Academic research
+- Biography
+- Food recipe
+- Marketing content
+- Media/ journalism
+- Poetry
+- Song lyric
+- Travel/ tourism
 
-# Marketing content
+# Sample
 
-# Media/ journalism
-
-# Poetry
-
-# Recipe
-
-# Song lyric
-
-# Travel/ tourism
+Input text | Output text
+:---: | :---:
+xxx | yyy
