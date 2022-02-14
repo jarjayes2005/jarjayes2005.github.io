@@ -20,7 +20,7 @@ Input language: English | Output language: Chinese
 :---: | :---:
 The Cold War 2.0 embodies a highly distinctive concept of competition in the 21st century, yet its aftermaths may prove equally dangerous and impactful if no timely action is implemented. Civil casualty, encroachment on human rights, financial losses as well as social unrest have unfortunately been taking place due to the Chinese and Russian destabilisation of democratic space. For instance, the Chinese ruthless armed suppression of the dissident voice originating from Taiwan and Hongkong. Russia has equally committed outrageous humanitarian crimes over the years, notably the military intervention in Ukraine which culminated in the unlawful annexation of Crimea in 2014. Both China and Russia have also on repeated occasions initiated cyber aggression on western databases in order to illegally appropriate sensitive information and to advance their own ends. | 我们即将面临的是前所未有的竞争概念。若不悬崖勒马，第二次冷战对世界和平的杀伤力会是不可磨灭的。不幸的是，中俄双方屡屡挑战现代民主价值并侵犯人权，以致社会动荡，人心惶惶。近年来港台独立分子频繁遭受残暴的武力镇压，便是中方挑衅世界和平的最佳印证。另一边厢，俄罗斯也不断犯下令人发指的罪行。其中最令人诟病的是二零一四年对乌克兰的军事干预，最终以俄国非法吞并克里米亚落幕。为了一己之私，中俄两方更是多次对西方各国数据库发起网络侵略，企图通过非法途径获取关键信息。
 
-# Biography: Jens Bernhardt (pseudonym used here due to confidentiality)
+# Biography: Jens Bernhardt (pseudonym applied due to confidentiality)
 
 Input language: Chinese | Output language: English
 :---: | :---:
