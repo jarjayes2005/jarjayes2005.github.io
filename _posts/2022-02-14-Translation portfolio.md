@@ -30,4 +30,4 @@ Input language: Chinese | Output language: English
 
 Input language: Chinese | Output language: German
 --- | ---
-因为爱情，怎么会有沧桑？所以我们还是年轻的模样。因为爱情，在那个地方，依然还有人在那里游荡。人来人往。| Wegen der Liebe leben wir im Frieden. Deshalb bleiben wir halt wie wir waren. Wegen der Liebe bleiben wir einfach da. Mit der Liebe wandern wir einfach so aufwärts und abwärts.
+因为爱情  怎么会有沧桑  所以我们还是年轻的模样  因为爱情  在那个地方  依然还有人在那里游荡  人来人往| Wegen der Liebe  leben wir im Frieden.  Deshalb bleiben wir halt wie wir waren.  Wegen der Liebe  bleiben wir einfach da.  Mit der Liebe wandern wir einfach so  aufwärts und abwärts.
