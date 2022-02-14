@@ -29,11 +29,14 @@ Input language: Chinese | Output language: English
 # Song lyrics: Because of Love (Faye Wong, Eason Chan) | 因为爱情 （王菲，陈奕迅）
 
  Input language: Chinese | Output language: German
- :---: | :---:
+:---: | :---:
 因为爱情
-怎么会有沧桑 所以我们还是年轻的模样
+怎么会有沧桑
+所以我们还是年轻的模样
 因为爱情
-在那个地方 依然还有人在那里游荡 人来人往 | Wegen der Liebe
+在那个地方
+依然还有人在那里游荡
+人来人往 | Wegen der Liebe
 leben wir im Frieden.
 Deshalb bleiben wir halt wie wir waren.
 Wegen der Liebe
