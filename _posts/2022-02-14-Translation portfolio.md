@@ -28,7 +28,7 @@ Input language: Chinese | Output language: English
 
 # Song lyrics: [Because of Love (因为爱情)](https://www.youtube.com/watch?v=VdwAkhNdZi8)
 
- Input language: Chinese | Output language: German
+Input language: Chinese | Output language: German
 --- | ---
 因为爱情
 怎么会有沧桑
