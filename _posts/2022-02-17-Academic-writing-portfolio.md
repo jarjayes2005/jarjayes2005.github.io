@@ -1,4 +1,4 @@
-## Writing portfolio
+## Academic writing portfolio
 
 
 # [Master thesis: Intercultural Experience as Identitarian Metanoia](https://www.scribd.com/document/399043652/Intercultural-Experiences-as-Identitarian-Metanoia)
