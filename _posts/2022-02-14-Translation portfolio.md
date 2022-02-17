@@ -1,5 +1,6 @@
 ## Translation portfolio
 
+
 # Topic/field
 
 - Academic research
@@ -11,6 +12,7 @@
 - Song lyric
 - Travel/ tourism
 
+---
 
 # Academic article: Cold War 2.0
 
