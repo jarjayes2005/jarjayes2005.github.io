@@ -28,6 +28,8 @@ Input language: Chinese | Output language: English
 
 # Song lyrics: [Because of Love (因为爱情)](https://www.youtube.com/watch?v=VdwAkhNdZi8)
 
+**A song by Faye Wong and Eason Chan | 王菲与陈奕迅演唱**
+
 Input language: Chinese | Output language: German
 --- | ---
 因为爱情 <br /> 怎么会有沧桑 <br /> 所以我们还是年轻的模样 <br /> 因为爱情 <br /> 在那个地方 <br /> 依然还有人在那里游荡 <br /> 人来人往| Wegen der Liebe <br /> leben wir im Frieden. <br /> Deshalb bleiben wir halt wie wir waren. <br /> Wegen der Liebe <br /> bleiben wir einfach da. <br /> Mit der Liebe wandern wir einfach so <br /> aufwärts und abwärts.
