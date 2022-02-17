@@ -8,6 +8,7 @@
 Intercultural studies have long matured into an important academic field in our contemporary era characterised by cultural globalisation. People nowadays are privileged with more opportunities of exploring intercultural experiences themselves, with the most informative forms being actually living in different cultural environment(s) and interacting with members from another cultural environment(s).
 
 Based on the author’s real life experiences in multiple cultural settings, this thesis examines the crucial role of intercultural experiences in transforming cultural identity, raising cultural consciousness on self and others as well as enhancing intercultural competences. Overview on the fundamental concepts such as cultural identity, monoculturalism and multiculturalism are provided. Autoethnography and participant-observation are employed as the primary and secondary methodology respectively to critically evaluate this personal journey of identitarian metanoia. Finally, the presentation of this thesis serves as the author’s sincere endeavour in contributing to intercultural research and enlightening mankind on its contemporary relevance.
+
 ---
 
 # [Bachelor thesis: Germany's Leadership of EMU: Balancing Politics and Economics](https://www.scribd.com/document/319043942/Germany-s-Leadership-of-EMU-Balancing-Politics-and-Economics)
@@ -15,6 +16,7 @@ Based on the author’s real life experiences in multiple cultural settings, thi
 
 This thesis explores Germany’s evolving art of balancing its political and economic convictions in EMU over the years, with European integration and Sound Economics being the two underlying principles respectively.
 Attention will also be drawn to the often unnoticed role of judiciary in constructing the German European policy.
+
 ---
 
 # [Academic article: The Invisible Hand in Shaping Social Identity](https://www.scribd.com/document/367460106/The-Invisible-Hand-in-Shaping-Social-Identity)
