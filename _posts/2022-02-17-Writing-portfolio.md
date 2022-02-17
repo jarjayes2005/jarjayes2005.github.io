@@ -1,6 +1,5 @@
 ## Writing portfolio
 
-# Sample
 
 # [Master thesis: Intercultural Experience as Identitarian Metanoia](https://www.scribd.com/document/399043652/Intercultural-Experiences-as-Identitarian-Metanoia)
 **Department of Social and Cultural Sciences, Hochschule Fulda (13th July 2018)**
