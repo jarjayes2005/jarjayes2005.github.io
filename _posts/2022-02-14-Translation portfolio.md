@@ -1,6 +1,6 @@
-### Translation portfolio
+## Translation portfolio
 
-## Topic/field
+# Topic/field
 
 - Academic research
 - Biography
@@ -12,7 +12,7 @@
 - Travel/ tourism
 
 
-## Sample
+# Sample
 
 # Academic article: Cold War 2.0
 
