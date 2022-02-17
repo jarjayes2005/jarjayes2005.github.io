@@ -26,9 +26,7 @@ Input language: Chinese | Output language: English
 --- | ---
 1956年6月2日，颜本翰教授出生于东柏林的一个书香门第，双亲皆为知名科学家。本翰教授对多元文化与智力的初识，缘于幼年时期父亲被时任东德政府外放到维也纳任职科学家的任命。如此机缘，或许正预示着本翰教授有朝一日终将发奋挣脱铁幕，进而改写自身的命运。在父亲的悉心指导下，年幼而志远的本翰教授培养出了对化学的热爱。这份热忱日后支撑着本翰教授在著名的柏林洪堡大学不断地钻研化学，直到他将年满三十时获得教授职位为止。| On 2nd June 1956, Prof. Jens Bernhardt was born into an academic family in East Berlin with both parents being prominent scientists. Since early childhood, Prof. Bernhardt was introduced to diversity in terms of cultures and intellects following his father’s delegation to Vienna as a governmental chemist. Such exposure foreshadowed his determination to break free from the Iron Curtain and rewrite his destiny one day. Under the  guidance of his father, the young and ambitious Prof. Bernhardt developed a passion for chemistry, which he continually pursued at the prestigious Humboldt University of Berlin until he attained professorship just before the age of 30.
 
-# Song lyrics: [Because of Love (因为爱情)](https://www.youtube.com/watch?v=VdwAkhNdZi8)
-
-**A song by Faye Wong and Eason Chan | 王菲与陈奕迅演唱**
+# Song lyrics: [Because of Love (因为爱情)](https://www.youtube.com/watch?v=VdwAkhNdZi8) - by Faye Wong and Eason Chan | 王菲与陈奕迅合唱
 
 Input language: Chinese | Output language: German
 --- | ---
