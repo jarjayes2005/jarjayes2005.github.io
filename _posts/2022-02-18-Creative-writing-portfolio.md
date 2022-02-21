@@ -20,4 +20,4 @@ Please oh please <br /> Let it come and let it be
 
 # Recipe: Beer risotto (written in German)
 
-![](/jarjayes2005.github.io/risotto.jpg)
+![Beer risotto](https://raw.githubusercontent.com/jarjayes2005/jarjayes2005.github.io/main/recipe-risotto.jpg "Yummy beer risotto!")
