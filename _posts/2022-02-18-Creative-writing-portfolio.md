@@ -2,27 +2,18 @@
 
 # Original poetry: A Star is Born
 
-I shall die as the most rebellious star in the sky
-One that never conforms to cosmic norm of any kind
-Darkness may make my look less dazzling
-Yet it can never turn my spirit less blazing
-For I dare to love and I dare to leave
-For I dare to live and I dare to die
+I shall die as the most rebellious star in the sky <br /> One that never conforms to cosmic norm of any kind <br /> Darkness may make my look less dazzling <br /> Yet it can never turn my spirit less blazing <br /> For I dare to love and I dare to leave <br /> For I dare to live and I dare to die
 
 ---
 
 # Original poetry: Calling
 
-Step by step
-Total surrender before triumph in the end
+Step by step <br /> Total surrender before triumph in the end
 
-Time after time
-Before you realise it all rhymes
+Time after time <br /> Before you realise it all rhymes
 
-Run and run
-I hope one day you will jump the gun
+Run and run <br /> I hope one day you will jump the gun
 
-Please oh please
-Let it come and let it be
+Please oh please <br /> Let it come and let it be
 
 ---
