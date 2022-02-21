@@ -1,12 +1,12 @@
 ## Creative writing portfolio
 
-# Original poetry: A Star is Born
+# Poetry: A Star is Born
 
 I shall die as the most rebellious star in the sky <br /> One that never conforms to cosmic norm of any kind <br /> Darkness may make my look less dazzling <br /> Yet it can never turn my spirit less blazing <br /> For I dare to love and I dare to leave <br /> For I dare to live and I dare to die
 
 ---
 
-# Original poetry: Calling
+# Poetry: Calling
 
 Step by step <br /> Total surrender before triumph in the end
 
@@ -17,3 +17,7 @@ Run and run <br /> I hope one day you will jump the gun
 Please oh please <br /> Let it come and let it be
 
 ---
+
+# Recipe: Beer risotto (written in German)
+
+![](beer risotto.jpg)
