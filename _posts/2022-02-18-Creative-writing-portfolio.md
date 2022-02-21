@@ -18,6 +18,7 @@ Please oh please <br /> Let it come and let it be
 
 ---
 
-# Recipe: Beer risotto (written in German)
+# Recipe: Beer risotto
+**This recipe was written by myself several years ago when my German proficiency was still not as strong, and the grammar is therefore by no means flawless! I however decided to upload the original creation here to preserve authenticity :)**
 
 ![Beer risotto](https://raw.githubusercontent.com/jarjayes2005/jarjayes2005.github.io/main/recipe-risotto.jpg "Yummy beer risotto!")
