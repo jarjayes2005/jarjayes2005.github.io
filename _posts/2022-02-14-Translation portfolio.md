@@ -32,4 +32,11 @@ Input language: Chinese | Output language: English
 
 Input language: Chinese | Output language: German
 --- | ---
-因为爱情 <br /> 怎么会有沧桑 <br /> 所以我们还是年轻的模样 <br /> 因为爱情 <br /> 在那个地方 <br /> 依然还有人在那里游荡 <br /> 人来人往| Wegen der Liebe <br /> leben wir im Frieden. <br /> Deshalb bleiben wir halt wie wir waren. <br /> Wegen der Liebe <br /> bleiben wir einfach da. <br /> Mit der Liebe wandern wir einfach so <br /> aufwärts und abwärts.
+因为爱情 <br /> 怎么会有沧桑 <br /> 所以我们还是年轻的模样 <br /> 因为爱情 <br /> 在那个地方 <br /> 依然还有人在那里游荡 <br /> 人来人往 | Wegen der Liebe <br /> leben wir im Frieden. <br /> Deshalb bleiben wir halt wie wir waren. <br /> Wegen der Liebe <br /> bleiben wir einfach da. <br /> Mit der Liebe wandern wir einfach so <br /> aufwärts und abwärts.
+
+
+# Song lyrics: [Zeit Heilt Alle Wunden | Time Heals All The Wounds](https://www.youtube.com/watch?v=9Cam2gzIRvI) - von Markus Beck | by Markus Beck
+
+Input language: German | Output language: English
+--- | ---
+Schritt für schritt geh ich nach vorn <br /> Kein Blick zurück ganz ohne Zorn <br /> Es kann nur besser werden <br /> Ich vergesse die ganzen Scherben | Step by step, I step forward <br /> With no glimpse back, with no more rage <br /> It can only turn out better <br /> I let go of all shattered pieces
