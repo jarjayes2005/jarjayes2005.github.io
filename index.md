@@ -10,7 +10,7 @@ Over the years, I have established solid expertise especially in the following a
 - **IT know-how:** Windows/Microsoft Office, macOS/iWork, Google Suite, Git/Github, CAT tools e.g. Transcafe/Smartcat, Wordpress, Blogspot
 
 (If you decide to ask me) one really can't go wrong with...
-- **Literature by:** George Orwell, Michel Foucault, Friedrich Nietzsche, Lu Xun/ 鲁迅, Dasai Ozamu/ 太宰 治
-- **Music by:** MONO (from Japan), Ryuichi Sakamoto, Sigur Rós, Oláfur Arnalds, World's End Girlfriend, Joe Hisaishi, ABBA, The Beatles, Roxette, Mando Diao
+- **Literature by:** George Orwell, Michel Foucault, Friedrich Nietzsche, Lu Xun/ 鲁迅
+- **Music by:** MONO (from Japan), Ryuichi Sakamoto, Sigur Rós, Oláfur Arnalds, World's End Girlfriend, Joe Hisaishi, ABBA, The Beatles, Roxette
 - **Films like:** V for Vendetta, The Matrix, Memento, Inglourious Basterds, Pulp Fiction, Oldboy, Farewell My Concubine/ 霸王别姬, The Prestige, Troy
 - **Series like:** The Office (US), Bojack Horseman, Twin Peaks
