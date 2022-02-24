@@ -6,7 +6,7 @@ Being a holder of both [LLB Law](https://www.bristol.ac.uk/study/undergraduate/2
 
 Over the years, I have established solid expertise especially in the following areas - scroll down to check out my portfolios!
 - **linguistic services:** translation, writing, transcription, proofreading, copyediting
-- **administrative competence:** communication, organisation, account/file management, database maintenance, project/event coordination
+- **administrative skills:** communication, organisation, account/file management, database maintenance, project/event coordination, intercultural competence
 - **IT know-how:** Windows/Microsoft Office, macOS/iWork, Google Suite, Git/Github, CAT tools e.g. Transcafe/Smartcat, Wordpress, Blogspot
 
 (If you decide to ask me) one really can't go wrong with...
