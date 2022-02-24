@@ -2,7 +2,7 @@
 
 Thank you for visiting my page! Here is Shi Yi speaking, I am a polyglot originally from Malaysia and have been living in Europe since 2013.
 
-Being a holder of both [LLB Law](https://www.bristol.ac.uk/study/undergraduate/2022/law/llb-law/) and [M.A. Intercultural Communication & European Studies](https://www.hs-fulda.de/en/studies/departments/social-and-cultural-sciences/future-students/study-programmes/intercultural-communication-and-european-studies-ma), I strive to promote the cooperation instead of hierarchy between soft and hard sciences through persistent endeavours.
+Being a holder of both [LLB Law](https://www.bristol.ac.uk/study/undergraduate/2022/law/llb-law/) and [M.A. Intercultural Communication & European Studies](https://www.hs-fulda.de/en/studies/departments/social-and-cultural-sciences/future-students/study-programmes/intercultural-communication-and-european-studies-ma), I am aspired to promote the cooperation instead of hierarchy between soft and hard sciences.
 
 Over the years, I have established solid expertise especially in the following areas - scroll down to check out my portfolios!
 - **linguistic services:** translation, writing, transcription, proofreading, copyediting
