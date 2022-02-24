@@ -10,7 +10,7 @@ Over the years, I have established solid expertise especially in the following a
 - **IT know-how:** Windows/Microsoft Office, macOS/iWork, Google Suite, Git/Github, CAT tools e.g. Transcafe/Smartcat, Wordpress, Blogspot
 
 (If you decide to ask me) one really can't go wrong with...
-- **Literature by:** George Orwell, Michel Foucault, Friedrich Nietzsche, Lu Xun/ 鲁迅
+- **Literature by:** George Orwell, Michel Foucault, Friedrich Nietzsche, Lu Xun (鲁迅)
 - **Music by:** MONO, Ryuichi Sakamoto, Sigur Rós, World's End Girlfriend, ABBA, The Beatles
-- **Films like:** V for Vendetta, The Matrix, Memento, Pulp Fiction, Farewell My Concubine/ 霸王别姬
+- **Films like:** V for Vendetta, The Matrix, Memento, Pulp Fiction, Farewell My Concubine (霸王别姬)
 - **Series like:** The Office (US), Bojack Horseman, Twin Peaks
