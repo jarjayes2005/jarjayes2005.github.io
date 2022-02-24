@@ -11,6 +11,6 @@ Over the years, I have established solid expertise especially in the following a
 
 (If you decide to ask me) one really can't go wrong with...
 - **Literature by:** George Orwell, Michel Foucault, Friedrich Nietzsche, Lu Xun/ 鲁迅
-- **Music by:** MONO (from Japan), Ryuichi Sakamoto, Sigur Rós, World's End Girlfriend, ABBA, The Beatles
+- **Music by:** MONO, Ryuichi Sakamoto, Sigur Rós, World's End Girlfriend, ABBA, The Beatles
 - **Films like:** V for Vendetta, The Matrix, Memento, Pulp Fiction, Farewell My Concubine/ 霸王别姬
 - **Series like:** The Office (US), Bojack Horseman, Twin Peaks
