@@ -6,7 +6,7 @@ In face of the technological predomination of our modern era, I as a humanistic 
 
 I am a holder of both [LLB Law](https://www.bristol.ac.uk/study/undergraduate/2022/law/llb-law/) and [M.A. Intercultural Communication & European Studies](https://www.hs-fulda.de/en/studies/departments/social-and-cultural-sciences/future-students/study-programmes/intercultural-communication-and-european-studies-ma).
 
-Over the years, I have established solid expertise especially in the following areas:
+Over the years, I have established solid expertise especially in the following areas - scroll down to check out my portfolios!
 - **linguistic services:** translation, writing, transcription, proofreading, copyediting
 - **administrative competence:** communication, organisation, account/file management, database maintenance, project/event coordination
 - **IT know-how:** Windows/Microsoft Office, macOS/iWork, Google Suite, Git/Github, CAT tools e.g. Transcafe/Smartcat, Wordpress, Blogspot
