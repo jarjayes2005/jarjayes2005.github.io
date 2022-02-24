@@ -9,7 +9,13 @@ I am a holder of both [LLB Law](https://www.bristol.ac.uk/study/undergraduate/20
 You can find my Upwork profile [here](https://www.upwork.com/freelancers/~01d22bd8700b7c2b9d). Unfortunately I lost access to an older account several years ago, which contained way more reviews than what is visible on this rather new one...
 
 Over the years, I have established solid expertise especially in the following areas:
-- **linguistic services:** translation, transcription, proofreading, interpretation, creative writings e.g. poetry
+- **linguistic services:** translation, writing, transcription, proofreading, copyediting
 - **interpersonal skills:** both oral and written communication, bolstered with intercultural awareness and sensibility
-- **administrative competence:** organisation, account/file management, database maintenance, project/task coordination
+- **administrative competence:** organisation, account/file management, database maintenance, project/event coordination
 - **IT know-how:** Windows/Microsoft Office, macOS/iWork, Google Suite, Git/Github, Audacity, CAT tools e.g. Transcafe/Smartcat, Wordpress, Facebook Page
+
+(If you decide to ask me) one really can't go wrong with...
+- **Literature by:** George Orwell, Michel Foucault, Friedrich Nietzsche, Lu Xun/ 鲁迅, Dasai Ozamu/ 太宰 治
+- **Music by:** MONO (from Japan), Ryuichi Sakamoto, Sigur Rós, Oláfur Arnalds, World's End Girlfriend, Joe Hisaishi, ABBA, The Beatles, Roxette, Mando Diao
+- **Films like:** V for Vendetta, The Matrix, Memento, Inglourious Basterds, Pulp Fiction, Oldboy, Farewell My Concubine/ 霸王别姬, The Prestige, Troy
+- **Series like:** The Office (US), Bojack Horseman, Twin Peaks
