@@ -10,9 +10,8 @@ You can find my Upwork profile [here](https://www.upwork.com/freelancers/~01d22b
 
 Over the years, I have established solid expertise especially in the following areas:
 - **linguistic services:** translation, writing, transcription, proofreading, copyediting
-- **interpersonal skills:** both oral and written communication, bolstered with intercultural awareness and sensibility
-- **administrative competence:** organisation, account/file management, database maintenance, project/event coordination
-- **IT know-how:** Windows/Microsoft Office, macOS/iWork, Google Suite, Git/Github, Audacity, CAT tools e.g. Transcafe/Smartcat, Wordpress, Facebook Page
+- **administrative competence:** communication, organisation, account/file management, database maintenance, project/event coordination
+- **IT know-how:** Windows/Microsoft Office, macOS/iWork, Google Suite, Git/Github, CAT tools e.g. Transcafe/Smartcat, Wordpress, Blogspot
 
 (If you decide to ask me) one really can't go wrong with...
 - **Literature by:** George Orwell, Michel Foucault, Friedrich Nietzsche, Lu Xun/ 鲁迅, Dasai Ozamu/ 太宰 治
